@@ -1,7 +1,7 @@
 ##Energy Forecasting with DNN
 
 This is my first project using Python, TensorFlow and Keras.
-I used the **energydata_complete.csv** dataset (UCI) to try and predict the energyb use of appliances at home.
+I used the UCI Appliances Energy Prediction dataset uploaded on Github by LuisM78 on February 14 2017 to try and predict the energy use of appliances at home.
 
 The idea is simple, to train a Deep Neural Network (DNN) so it can forecast how much load the appliances will use at different times of the day.
 
